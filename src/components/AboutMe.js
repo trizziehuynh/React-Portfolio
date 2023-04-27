@@ -29,10 +29,13 @@ function About() {
           spacing={4}
           justifyContent={"center"}
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis,
-          accusantium maiores? Unde veniam obcaecati iste earum, ipsa, eligendi
-          vero quas facilis corporis, ipsum voluptatum aliquam nulla?
-          Perferendis repudiandae dicta doloribus?
+          Welcome to my portfolio! My name is Trizzie Huynh. I'm currently a
+          full-time student at UCI coding boot camp. 
+          Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Reiciendis, accusantium maiores? Unde
+          veniam obcaecati iste earum, ipsa, eligendi vero quas facilis
+          corporis, ipsum voluptatum aliquam nulla? Perferendis repudiandae
+          dicta doloribus?
         </Typography>
       </Grid>
     </Paper>

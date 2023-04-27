@@ -37,6 +37,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Application
 
+[React Portfolio](https://trizziehuynh.github.io/React-Portfolio/)
+
 ![Figure 1](/src/assets/images/Screenshot%202023-04-26%20181112.png)
 
 ![Figure 2](/src/assets/images/Screenshot%202023-04-26%20181102.png)
+
+[React Portfolio](https://trizziehuynh.github.io/React-Portfolio/)
